@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("A behavior for Jean for Hansoft to have an automatically updated number column.")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("NumberBehavior")]
+[assembly: AssemblyDescription("A behavior for Jean for Hansoft to have an automatically updated number column.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Jean for Hansoft")]
-[assembly: AssemblyCopyright("Copyright ©  2013 Svante Lidman")]
+[assembly: AssemblyCopyright("Copyright ©  2013 Hansoft AB")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
