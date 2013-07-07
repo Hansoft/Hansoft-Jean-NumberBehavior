@@ -7,7 +7,7 @@ Jean for Hansoft is a Windows Service that you can use to automate  updates of d
 allows you to add custom behaviors that are triggered when changes are made in a Hansoft project where a behavior typically performs a certain
 kind of update of some Hansoft items. 
 
-NumerBehavior is a component that realizes one specific behavior for Jean for Hansoft.
+NumberBehavior is a component that realizes one specific behavior for Jean for Hansoft.
 
 Please see the main Readme for Jean for Hansoft for further information.
 
